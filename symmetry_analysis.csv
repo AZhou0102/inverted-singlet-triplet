@@ -1,0 +1,11 @@
+filename,point_group,rotation_axes,num_symm_ops,mirror_planes,inversion_centers,improper_rotations,symm_equivalent_atoms
+benzene_ccsd_cc-pvdz_s0m.xyz,D6h,12,24,n/a,n/a,n/a,n;/;a
+CBD_ccsd_cc-pvdz_s0m.xyz,D2h,4,8,n/a,n/a,n/a,n;/;a
+CPD_ccsd_cc-pvdz_s0m.xyz,C2v,2,4,n/a,n/a,n/a,n;/;a
+Hz_ccsd_cc-pvdz_s0m.xyz,D3h,6,12,n/a,n/a,n/a,n;/;a
+cyclazine_ccsd_cc-pvdz_s0m.xyz,D3h,6,12,n/a,n/a,n/a,n;/;a
+twelve_ccsd_cc-pvdz_s0m.xyz,C1,1,1,n/a,n/a,n/a,n;/;a
+BN-CBD_ccsd_cc-pvdz_s0m.xyz,D2h,4,8,n/a,n/a,n/a,n;/;a
+BN-CBD_ccsd_cc-pvdz_s0m_rectangular.xyz,C2h,2,4,n/a,n/a,n/a,n;/;a
+napthalene_ccsd_cc-pVTZ_s0m.xyz,D2h,4,8,n/a,n/a,n/a,n;/;a
+azulene_ccsd_cc-pVTZ_s0m.xyz,C2v,2,4,n/a,n/a,n/a,n;/;a

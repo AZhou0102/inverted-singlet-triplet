@@ -1,0 +1,12 @@
+filename,homo,lumo,centroid_distance_A,overlap_norm,overlap_square
+benzene_ccsd_cc-pvdz_s0m.chk,21,22,0.0,0.9055039449,0.0071431734
+CBD_ccsd_cc-pvdz_s0m.chk,14,15,2e-06,0.8278863963,0.0066258538
+CPD_ccsd_cc-pvdz_s0m.chk,18,19,0.134401,0.8287672017,0.007009222
+Hz_ccsd_cc-pvdz_s0m.chk,44,45,5.4e-05,0.4685790886,0.0009705707
+BN-CBD_ccsd_cc-pvdz_s0m_rectangular.chk,14,15,2.8e-05,0.4321182728,0.0014871783
+BN-CBD_ccsd_cc-pvdz_s0m.chk,14,15,0.0,0.3210514452,0.0006185741
+twelve_ccsd_cc-pvdz_s0m.chk,42,43,0.245824,0.7973493483,0.002617335
+cyclazine_ccsd_cc-pvdz_s0m.chk,44,45,6.9e-05,0.4987000288,0.000747273
+azulene_ccsd_cc-pVTZ_s0m.chk,34,35,0.884519,0.5866404838,0.0015391991
+napthalene_ccsd_cc-pVTZ_s0m.chk,34,35,3e-06,0.8656408239,0.0040865887
+Hz_eom-ccsd_cc-pvdz_t1g_s1.chk,44,45,0.069597,0.457619637,0.0009047755
