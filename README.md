@@ -1,11 +1,12 @@
 # NEMO Ensemble Analysis Tools
 
 This repository contains Python scripts to analyze NEMO-generated ensembles and Gaussian/Q-Chem output files.
-Outputs include oscillator strengths, orbital overlap integrals, and molecular symmetry properties.
+Outputs include oscillator strengths, orbital overlap integrals, r1^2 values, and molecular symmetry properties.
+Example outputs are shown for all scripts.
 
 ---
 
-## Synopsis of scripts
+## Synopsis of scripts/notebooks
 
 ### `osc_strengths.py`
 
@@ -54,6 +55,13 @@ Computes molecular point group symmetry and other measures for each `.xyz` file 
     - Other symmetry-related metadata (`"n/a"` for now)
 - Depends on:
   - pymatgen
+ 
+### `r1r2_calculator.ipynb`
+
+Calculates the r₁² and r₂² excitation parameters for a given optimized geometry from an EOM-CCSD calculation.
+
+Usage:
+    Copy and paste the full text of the “Left eigenvector” section from your .log file into the notebook input cell.
 
 ---
 
@@ -69,11 +77,15 @@ Install dependencies:
 
 Set up Multiwfn:
   Multiwfn_noGUI must be in `PATH`
-
+```
 ---
 
-
 ## Citations
+
+NEMO
+
+    Leonardo E. de Sousa, NEMO: Nuclear Ensemble Method for Optical spectra, GitHub repository, 
+    https://github.com/LeonardoESousa/NEMO (accessed July 2025).
 
 Multiwfn
 
