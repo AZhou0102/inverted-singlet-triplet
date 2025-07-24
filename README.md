@@ -1,4 +1,4 @@
-# NEMO Ensemble Analysis Tools
+# IST analysis tools
 
 This repository contains Python scripts to analyze NEMO-generated ensembles and Gaussian/Q-Chem output files.
 Outputs include oscillator strengths, orbital overlap integrals, r1^2 values, and molecular symmetry properties.
