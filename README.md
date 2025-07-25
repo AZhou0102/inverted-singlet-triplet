@@ -96,6 +96,7 @@ Q-Chem
     Y. Shao et al., Advances in molecular quantum chemistry contained in the Q-Chem 4 program package, Mol. Phys. 113, 184–215 (2015)
 
 Pymatgen
+
     Shyue Ping Ong, Wei Chen, Zhiqiang Dong, Quanqi Wang, and Kristin Persson.
     Python Materials Genomics (pymatgen): A robust, open-source python library for materials analysis.
     Comput. Mater. Sci. 68, 314–319 (2013).
